@@ -1,4 +1,5 @@
-//description: An advanced C++17 CGPA calculator with robust error handling, RAII, and modern coding practices.
+/*description: An advanced C++17 CGPA calculator with robust error handling, RAII, and modern coding practices.
+This program calculates CGPA across multiple semesters, allowing for saving/loading data, and ensures safe input handling.*/
 
 #include <iostream>
 #include <vector>
